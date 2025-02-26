@@ -46,8 +46,8 @@ Welcome to the **Collaborative Drawing App**, where creativity meets real-time c
 ## 🚀 Tech Stack
 🖥️ **Frontend:** React.js  
 🔌 **Backend:** Node.js & Express.js  
-📡 **Real-time Communication:** WebSockets  
-🖍️ **Drawing Canvas:** HTML5 Canvas API  
+📡 **Real-time Communication:** Stocket.io
+🖍️ **Drawing Canvas:** Rough.js  
 
 ---
 
@@ -56,10 +56,6 @@ Welcome to the **Collaborative Drawing App**, where creativity meets real-time c
 
 ---
 
-## 📜 License
-Licensed under the MIT License – free to use and modify!
-
----
 
 ## 📩 Get in Touch
 Got questions? Drop an issue on GitHub and we'll get back to you!
